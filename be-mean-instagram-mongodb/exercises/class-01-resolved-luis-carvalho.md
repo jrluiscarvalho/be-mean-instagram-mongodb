@@ -15,5 +15,6 @@ luis-master@luismaster-HP-14-Notebook-PC:~/projects/be-mean-instagram/be-mean-in
 ## Contando os restaurantes
 
 ```
-suissacorp(mongod-3.0.6) be-mean> db.restaurantes.find({}).count()
-X
+luismaster-HP-14-Notebook-PC(mongod-3.2.6) be-mean-instagram> db.restaurantes.find({}).count()
+25359
+
